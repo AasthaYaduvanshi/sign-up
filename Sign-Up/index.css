@@ -1,0 +1,362 @@
+body {
+  margin: 0;
+  line-height: normal;
+  overflow: hidden;
+}
+.r-architecture-2gdwliim3uw-uns-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 98.31em;
+  height: 55.5em;
+  object-fit: cover;
+  opacity: 0.3;
+}
+.mask-group-child {
+  position: absolute;
+  top: 1.28em;
+  left: -0.08em;
+  border-radius: 20.32px;
+  background-color: #000;
+  filter: blur(0);
+  backdrop-filter: blur(2540.54px);
+  border: 1.3px solid rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+  width: 60.35em;
+  height: 28.92em;
+  opacity: 0.9;
+}
+.mask-group {
+  top: 0;
+}
+.group-child,
+.mask-group,
+.mask-group-parent {
+  position: absolute;
+  left: 0;
+  width: 60.19em;
+  height: 31.25em;
+}
+.group-child {
+  top: 0;
+  border-radius: 20.32px;
+  opacity: 0.9;
+}
+.mask-group-parent {
+  top: 4.44em;
+}
+.create-an-account,
+.register {
+  position: absolute;
+  color: #fff;
+  text-align: left;
+}
+.create-an-account {
+  top: 0;
+  left: 0;
+  font-size: 6.25em;
+  font-family: "Trebuchet MS";
+  text-shadow: 0 4px 29px #edde5d;
+}
+.register {
+  top: 14.04em;
+  left: 17.75em;
+  font-size: 1.5em;
+  line-height: 1.79em;
+  font-family: Montserrat;
+}
+.next-button-child {
+  position: absolute;
+  top: -1em;
+  left: -1.62em;
+  width: 6.44em;
+  height: 6.44em;
+}
+.next-button-item {
+  position: absolute;
+  height: 31.37%;
+  width: 31.37%;
+  top: 33.33%;
+  right: 35.29%;
+  bottom: 35.29%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.next-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 20.81em;
+  left: 38.69em;
+  width: 3.19em;
+  height: 3.19em;
+}
+.sign-up-with {
+  position: absolute;
+  top: 0;
+  left: 6.33em;
+  font-size: 0.75em;
+  font-family: Poppins;
+  color: #676767;
+  text-align: center;
+}
+.google-1-icon,
+.google-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3em;
+  height: 3em;
+}
+.google-1-icon {
+  top: 0.69em;
+  left: 0.75em;
+  width: 1.56em;
+  height: 1.56em;
+  overflow: hidden;
+}
+.apple-id,
+.google {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.75em;
+  left: 0;
+  width: 3em;
+  height: 3em;
+}
+.apple-id {
+  left: 5.5em;
+}
+.facebook-app-symbol-1-icon {
+  position: absolute;
+  top: 0.69em;
+  left: 0.69em;
+  width: 1.63em;
+  height: 1.63em;
+  overflow: hidden;
+}
+.facebook {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.75em;
+  left: 11em;
+  width: 3em;
+  height: 3em;
+}
+.sign-up-with-parent {
+  position: absolute;
+  top: 27.94em;
+  left: 19.56em;
+  width: 14em;
+  height: 4.75em;
+}
+.by-clicking-the {
+  color: #fff;
+}
+.register1 {
+  color: #edde5d;
+}
+.by-clicking-the-container {
+  position: absolute;
+  top: 22.58em;
+  left: 35.5em;
+  font-size: 0.75em;
+  font-family: Montserrat;
+  text-align: left;
+  display: inline-block;
+  width: 21.5em;
+}
+.password-child {
+  border: 0;
+  background-color: #262626;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  width: 19.81em;
+  height: 3.44em;
+}
+.eye-icon,
+.password-item {
+  position: absolute;
+  top: 1.13em;
+  left: 17.63em;
+  width: 1.25em;
+  height: 1.25em;
+  overflow: hidden;
+}
+.password-item {
+  height: 36.36%;
+  width: 5.05%;
+  top: 30.91%;
+  right: 90.22%;
+  bottom: 32.73%;
+  left: 4.73%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.password1 {
+  position: absolute;
+  top: 1.75em;
+  left: 3.5em;
+  font-size: 0.75em;
+  font-weight: 500;
+  font-family: Montserrat;
+  background-color: #262626;
+  color: #fff;
+  text-align: center;
+  
+}
+.password {
+  position: absolute;
+  top: 16.19em;
+  left: 5.75em;
+  width: 19.81em;
+  height: 3.44em;
+}
+.user {
+  position: absolute;
+  top: 12.75em;
+  left: 6.75em;
+  width: 24.9em;
+  height: 3.53em;
+}
+.vector-icon {
+  height: 76.67%;
+  width: 100%;
+  top: 11.67%;
+  right: 0;
+  bottom: 11.67%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.eye,
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 35%;
+  width: 35%;
+  top: 32.5%;
+  right: 32.5%;
+  bottom: 32.5%;
+  left: 32.5%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.user-icon,
+.user-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.user-item {
+  height: 36.36%;
+    width: 5.05%;
+    top: 30.91%;
+    right: 90.22%;
+    bottom: 32.73%;
+    left: 4.73%;
+    max-width: 100%;
+    max-height: 100%;
+}
+.eye {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1.13em;
+  left: 17.63em;
+  width: 1.25em;
+  height: 1.25em;
+}
+.confirm-password1 {
+  position: absolute;
+  top: 1.75em;
+  left: 3.17em;
+  font-size: 0.75em;
+  font-weight: 500;
+  font-family: Montserrat;
+  background-color: #262626;
+  color: #fff;
+  text-align: center;
+}
+.confirm-password {
+  position: absolute;
+  top: 20.69em;
+  left: 5.75em;
+  width: 19.81em;
+  height: 3.44em;
+}
+.username-or-email {
+  border: 0;
+  background-color: transparent;
+  font-family: Montserrat;
+  font-size: 0.75em;
+  position: relative;
+  background-color: #262626;
+  color: #fff;
+  border-radius: 10px;
+  top: 15.579em;
+  left: 7.67em;
+  width: 53.42em;
+  height: 4.58em;
+}
+.create-an-account-parent,
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: 3.38em;
+  width: 53.44em;
+  height: 32.69em;
+}
+.group-parent {
+  top: 2.69em;
+  left: 14.94em;
+  width: 60.19em;
+  height: 35.69em;
+}
+.desktop-1-child,
+.desktop-1-item {
+  position: absolute;
+  top: 0;
+  left: 31.44em;
+  width: 58.56em;
+  height: 42.42em;
+}
+.desktop-1-item {
+  left: 0;
+  width: 90em;
+  height: 28.47em;
+}
+.desktop-1-inner,
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 66em;
+  height: 31.66em;
+}
+.ellipse-icon {
+  width: 27.56em;
+  height: 58.41em;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 64em;
+  overflow: hidden;
+}
